@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\UCSP\Graphics\GLFW_GLAD_GLUT_GLEW_cmake_project\dep\include\glad\glad\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\UCSP\Graphics\GLFW_GLAD_GLUT_GLEW_cmake_project\src\hw1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E40C9F10-1B17-31FF-B183-26A5DE9CC090}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\UCSP\Graphics\GLFW_GLAD_GLUT_GLEW_cmake_project\dep\include\glad\glad\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\UCSP\Graphics\GLFW_GLAD_GLUT_GLEW_cmake_project\src\Tutorial_01\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\UCSP\Graphics\GLFW_GLAD_GLUT_GLEW_cmake_project\src\Tutorial_01\filesystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\UCSP\Graphics\GLFW_GLAD_GLUT_GLEW_cmake_project\src\Tutorial_01\root_directory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\UCSP\Graphics\GLFW_GLAD_GLUT_GLEW_cmake_project\src\Tutorial_01\shader_s.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\UCSP\Graphics\GLFW_GLAD_GLUT_GLEW_cmake_project\src\Tutorial_01\stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\src\Tutorial_01\Rubik.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\src\Tutorial_01\solver\solver.h">
+      <Filter>solver</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\src\Tutorial_01\clases.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\UCSP\Graphics\GLFW_GLAD_GLUT_GLEW_cmake_project\src\Tutorial_01\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\UCSP\Graphics\GLFW_GLAD_GLUT_GLEW_cmake_project\src\Tutorial_01\shader.vs" />
+    <None Include="D:\UCSP\Graphics\GLFW_GLAD_GLUT_GLEW_cmake_project\src\Tutorial_01\shader.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F6619749-93D4-38C1-956B-5FB5DE7B30B4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E40C9F10-1B17-31FF-B183-26A5DE9CC090}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="solver">
+      <UniqueIdentifier>{6ae11c54-946a-4a1d-b970-5caf4cc179b3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

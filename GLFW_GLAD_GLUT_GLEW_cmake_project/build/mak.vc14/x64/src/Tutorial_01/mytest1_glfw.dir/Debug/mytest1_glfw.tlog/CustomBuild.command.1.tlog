@@ -1,0 +1,10 @@
+^D:\UCSP\GRAPHICS\GLFW_GLAD_GLUT_GLEW_CMAKE_PROJECT\SRC\TUTORIAL_01\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/UCSP/Graphics/GLFW_GLAD_GLUT_GLEW_cmake_project -BD:/UCSP/Graphics/GLFW_GLAD_GLUT_GLEW_cmake_project/build/mak.vc14/x64 --check-stamp-file D:/UCSP/Graphics/GLFW_GLAD_GLUT_GLEW_cmake_project/build/mak.vc14/x64/src/Tutorial_01/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

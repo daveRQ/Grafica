@@ -1,0 +1,8 @@
+D:/UCSP/Graphics/GLFW_GLAD_GLUT_GLEW_cmake_project/build/mak.vc14/x64/CMakeFiles/ALL_BUILD.dir
+D:/UCSP/Graphics/GLFW_GLAD_GLUT_GLEW_cmake_project/build/mak.vc14/x64/CMakeFiles/ZERO_CHECK.dir
+D:/UCSP/Graphics/GLFW_GLAD_GLUT_GLEW_cmake_project/build/mak.vc14/x64/src/Tutorial_01/CMakeFiles/mytest1_glfw.dir
+D:/UCSP/Graphics/GLFW_GLAD_GLUT_GLEW_cmake_project/build/mak.vc14/x64/src/Tutorial_01/CMakeFiles/ALL_BUILD.dir
+D:/UCSP/Graphics/GLFW_GLAD_GLUT_GLEW_cmake_project/build/mak.vc14/x64/src/hw0/CMakeFiles/hw0.dir
+D:/UCSP/Graphics/GLFW_GLAD_GLUT_GLEW_cmake_project/build/mak.vc14/x64/src/hw0/CMakeFiles/ALL_BUILD.dir
+D:/UCSP/Graphics/GLFW_GLAD_GLUT_GLEW_cmake_project/build/mak.vc14/x64/src/hw1/CMakeFiles/hw1.dir
+D:/UCSP/Graphics/GLFW_GLAD_GLUT_GLEW_cmake_project/build/mak.vc14/x64/src/hw1/CMakeFiles/ALL_BUILD.dir

@@ -1,0 +1,3 @@
+﻿  Building Custom Rule D:/Graphics/GLFW_GLAD_GLUT_GLEW_cmake_project/CMakeLists.txt
+  The system cannot find the path specified.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(234,5): error MSB6006: "cmd.exe" exited with code 3.

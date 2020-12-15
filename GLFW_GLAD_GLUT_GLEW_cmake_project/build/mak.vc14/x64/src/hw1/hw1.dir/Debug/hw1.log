@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/UCSP/Graphics/GLFW_GLAD_GLUT_GLEW_cmake_project/src/hw1/CMakeLists.txt
+  glad.c
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\UCSP\Graphics\GLFW_GLAD_GLUT_GLEW_cmake_project\build\mak.vc14\x64\src\hw1\Debug\hw1.exe : fatal error LNK1120: 1 unresolved externals
